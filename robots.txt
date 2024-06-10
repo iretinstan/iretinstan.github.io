@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iretinstan.github.io/sitemap.html
+Sitemap: https://iretinstan.github.io/app/sitemap.html
+Sitemap: https://iretinstan.github.io/assets/sitemap.html
+Sitemap: https://iretinstan.github.io/css/sitemap.html
+Sitemap: https://iretinstan.github.io/includes/sitemap.html
+Sitemap: https://iretinstan.github.io/item/sitemap.html
+Sitemap: https://iretinstan.github.io/src/sitemap.html
